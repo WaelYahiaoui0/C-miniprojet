@@ -1,0 +1,15 @@
+/home/hp/project/Projet C#/StadiumReservation/bin/Debug/net6.0/StadiumReservation
+/home/hp/project/Projet C#/StadiumReservation/bin/Debug/net6.0/StadiumReservation.deps.json
+/home/hp/project/Projet C#/StadiumReservation/bin/Debug/net6.0/StadiumReservation.runtimeconfig.json
+/home/hp/project/Projet C#/StadiumReservation/bin/Debug/net6.0/StadiumReservation.dll
+/home/hp/project/Projet C#/StadiumReservation/bin/Debug/net6.0/StadiumReservation.pdb
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.csproj.AssemblyReference.cache
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.AssemblyInfoInputs.cache
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.AssemblyInfo.cs
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.csproj.CoreCompileInputs.cache
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.dll
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/refint/StadiumReservation.dll
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.pdb
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/StadiumReservation.genruntimeconfig.cache
+/home/hp/project/Projet C#/StadiumReservation/obj/Debug/net6.0/ref/StadiumReservation.dll
